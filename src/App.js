@@ -7,6 +7,7 @@ import FavoritesPage from "./pages/Favorites";
 import NewMeetupPage from "./pages/NewMeetup";
 
 
+
 function App() {
   return (
       <Layout>
